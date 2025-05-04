@@ -1,0 +1,6 @@
+VehicleID,Type,Capacity,Range
+1,Large Truck,80.0,1720
+2,Medium Truck,60.0,1510
+3,Medium Truck,50.0,1300
+4,Small Truck,40.0,1100
+5,Small Truck,30.0,870

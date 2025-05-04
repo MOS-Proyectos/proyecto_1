@@ -1,0 +1,15 @@
+ClientID,City/Municipality,Demand,LocationID,MaxWeight
+1,Bogotá,16.0,2,N/A
+2,Medellín,18.0,3,N/A
+3,Cali,16.0,4,35.0
+4,Cartagena,18.0,5,N/A
+5,Cúcuta,15.0,6,35.0
+6,Bucaramanga,17.6,7,N/A
+7,Pereira,17.6,8,25.0
+8,Santa Marta,10.0,9,50.0
+9,Ibagué,11.0,10,40.0
+10,Manizales,9.0,11,38.0
+11,Neiva,5.0,12,10.0
+12,Barranquilla,7.0,13,50.0
+13,Villavicencio,5.0,14,10.0
+14,Armenia,10.0,15,N/A
