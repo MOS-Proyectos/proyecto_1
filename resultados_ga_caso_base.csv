@@ -1,0 +1,4 @@
+experimento,semilla,poblacion,generaciones,mutacion,elitismo,distancia_total,carga_total,clientes_no_asignados
+Experimento 1,42,50,100,0.1,0.1,197.54,377,0
+Experimento 2,101,100,200,0.05,0.2,164.94,377,0
+Experimento 3,202,150,100,0.2,0.0,152.82,377,0
